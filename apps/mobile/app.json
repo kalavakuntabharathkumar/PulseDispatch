@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "PulseDispatch",
+    "slug": "pulsedispatch",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#101827"
+    },
+    "android": {
+      "package": "com.portfolio.pulsedispatch"
+    },
+    "ios": {
+      "bundleIdentifier": "com.portfolio.pulsedispatch"
+    }
+  }
+}
